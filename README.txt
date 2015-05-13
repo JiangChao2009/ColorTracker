@@ -53,11 +53,14 @@ tracker_command = fullfile('/home/mostafaizz/ColorTracker/vot_tester');
 then you should be able to run the experiments from matlab/octave normally
 
 -----------------------------------
-Contact:
+Contact (for the c++ code):
 Mostafa Izz
 izz.mostafa@gmail.com
 
+One should contact the paper authors in [1] if you need clarifications about the algorithm itself.
 
+----
+References:
 [1] Martin Danelljan, Fahad Shahbaz Khan, Michael Felsberg and Joost van de Weijer.
     "Adaptive Color Attributes for Real-Time Visual Tracking".
     Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014.
